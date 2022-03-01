@@ -24,3 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 - Find price for tokens transfered from Coinbase to Coinbase Pro
 - Include manual input
 - Add a graph to display entry points and profit
+- Add lib to manage json
